@@ -1,0 +1,7 @@
+Class Math{
+    double p11111;
+    p11111 = 22.0/7.0;
+    double pi(){
+        return p11111;
+    }
+}
